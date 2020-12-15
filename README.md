@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="./assets/img/logo.png" />
+    <img src="https://technologyandsociety.org/wp-content/uploads/Logo-Color-1.jpg" />
     <h2 align="center">TiTle</h2>
     <h4 align="center">Subtitle</h4>
 </p>
