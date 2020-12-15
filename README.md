@@ -18,8 +18,8 @@
 
 ### Contributors
 
-- [ Gunjan Raj Tiwari ](https://github.com/)
-- [ Sandesh Dhungana ](https://github.com/)
+- [ Contributor 1 ](https://github.com/)
+- [ Contributor 2 ](https://github.com/)
 
 
 ---------
